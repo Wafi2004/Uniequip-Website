@@ -1,0 +1,18 @@
+<?php
+// Database Configuration
+// Make a copy of this file named 'db.php' and fill in your actual credentials
+
+$user = "YOUR_USERNAME"; 
+$pass = "YOUR_PASSWORD"; 
+$host = "YOUR_HOST"; 
+$dbname = "YOUR_DATABASE";
+
+$connect = mysqli_connect($host,$user,$pass,$dbname);
+
+if(isset($connect)) 
+		echo("");  
+	//connection is established
+else
+	echo("Connection failed");
+
+?>
