@@ -17,8 +17,8 @@ A web-based university equipment booking system that allows students and clubs t
 - Database: MySQL
 - Tools: VS Code, Git, GitHub
 
-## Demo
-- Demo Video: [Watch here](your-link)
+## Website Link
+- Link: [Click here](https://uniequip.kesug.com)
 
 ## 📄 Documentation
 
