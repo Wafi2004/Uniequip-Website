@@ -17,16 +17,19 @@ A web-based university equipment booking system that allows students and clubs t
 - Database: MySQL
 - Tools: VS Code, Git, GitHub
 
-## Website Link
-- Link: [Click here](https://uniequip.kesug.com)
-- Student Login:
-  Username: S001
-  Password: password123
-  
-Admin Login:
+## Live Demo
 
-Username: A001
-Password: admin123
+You can access the deployed UniEquip Web system here:
+
+* [Open UniEquip Web](https://uniequip.kesug.com)
+
+### Test Accounts
+
+| Role    | Username | Password      |
+| ------- | -------- | ------------- |
+| Student | `S001`   | `password123` |
+| Admin   | `A001`   | `admin123`    |
+
 
 ## 📄 Documentation
 
