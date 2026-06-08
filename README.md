@@ -19,6 +19,17 @@ A web-based university equipment booking system that allows students and clubs t
 
 ## Website Link
 - Link: [Click here](https://uniequip.kesug.com)
+Try it now: https://uniequip.kesug.com
+
+Test Credentials:
+Student Login:
+
+Username: S001
+Password: password123
+Admin Login:
+
+Username: A001
+Password: admin123
 
 ## 📄 Documentation
 
